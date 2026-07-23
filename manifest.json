@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2b0f5a7e-3d2b-4f3d-9e6b-7f0a6b2d8c9a",
+    "type": "manifest",
+    "url": "https://raw.githubusercontent.com/natyusha/ShokoRelay/master/manifest.json"
+  },
+  {
+    "id": "f4d3c2b1-a9e8-7f6d-5c4b-3a2b1c0d9e8f",
+    "type": "manifest",
+    "url": "https://raw.githubusercontent.com/natyusha/ShokoMyListSyncPlus/master/manifest.json"
+  }
+]
