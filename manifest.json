@@ -5,6 +5,11 @@
     "url": "https://raw.githubusercontent.com/natyusha/ShokoRelay/master/manifest.json"
   },
   {
+    "id": "8b3d64c1-6b45-4b8a-9e7f-1d2a3b4c5d6e",
+    "type": "manifest",
+    "url": "https://raw.githubusercontent.com/natyusha/ShokoRenamerNN/master/manifest.json"
+  },
+  {
     "id": "f4d3c2b1-a9e8-7f6d-5c4b-3a2b1c0d9e8f",
     "type": "manifest",
     "url": "https://raw.githubusercontent.com/natyusha/ShokoMyListSyncPlus/master/manifest.json"
